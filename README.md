@@ -10,7 +10,7 @@ The project is an extended application of Show, Attend and Tell: Neural Image Ca
 https://arxiv.org/abs/1502.03044
  
 
-The dataset is taken from the Kaggle website and it consists of sentence-based image descriptions having a list of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events of the image.
+The dataset is taken from the [Kaggle website](https://www.kaggle.com/datasets/adityajn105/flickr8k "Flickr8k dataset") and it consists of sentence-based image descriptions having a list of 8,000 images that are each paired with five different captions which provide clear descriptions of the salient entities and events of the image.
 
  
 
